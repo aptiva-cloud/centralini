@@ -1,6 +1,6 @@
 # Collegare il centralino all'agente vocale AI di Aptiva
 
-Esempi di configurazione per collegare il tuo centralino ad [Aptiva](https://www.aptiva.cloud), la piattaforma italiana di agenti vocali AI per le chiamate aziendali. L'agente risponde alle chiamate e chiama i contatti, 24 ore su 24, in italiano, e passa la chiamata a una persona presentandogliela a voce.
+Esempi di configurazione per collegare il tuo centralino ad [Aptiva](https://www.aptiva.cloud), la piattaforma italiana di agenti vocali AI per le chiamate aziendali. L'agente risponde alle chiamate e chiama i contatti, 24 ore su 24, in italiano e, se è configurato per farlo, passa la chiamata a una persona presentandogliela a voce.
 
 Il centralino si collega con un trunk IAX2 o SIP su TLS con audio SRTP, entrambi cifrati: SIP in chiaro non viene accettato. Ogni cartella contiene il riassunto della guida, i blocchi di configurazione, quando la guida li riporta, e il link alla guida completa su aptiva.cloud, che spiega ogni passaggio.
 
